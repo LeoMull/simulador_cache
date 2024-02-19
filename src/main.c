@@ -25,7 +25,7 @@ int main()
         prinf("Erro ao abrir arquivo.\n");
         return;
     }
-
+    
     while (!EOF)
     {
         int *address, tag, index;
